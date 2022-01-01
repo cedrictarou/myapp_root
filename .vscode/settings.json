@@ -1,0 +1,7 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "vetur.format.defaultFormatter.js": "none",
+  "vetur.completion.autoImport": false
+}
