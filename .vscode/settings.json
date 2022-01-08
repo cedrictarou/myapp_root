@@ -2,7 +2,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "prettier.semi": false,
-  "vetur.format.defaultFormatter.js": "none",
+  "vetur.format.defaultFormatter.js": "prettier-eslint",
   "vetur.completion.autoImport": false,
   "ruby.rubocop.executePath": "/Users/takuyatokimasa/.rbenv/shims/"
 }
